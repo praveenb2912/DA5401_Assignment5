@@ -9,8 +9,8 @@
 
 ## ▶️ How to Run
 
-1. Open the notebook **`DA5401_Assignment5_MM22B014.ipynb`** in **Google Colab** or Jupyter Notebook.  
-2. Ensure that the required dataset (e.g., `gene_expression_multilabel.csv` or equivalent) is placed in the same working directory.  
+1. Open the notebook **`DA5401_assignment5_MM22B014.ipynb`** in **Google Colab** or Jupyter Notebook.  
+2. Ensure that the required dataset is placed in the same working directory.  
 3. Run all cells in order to reproduce the visualizations and analysis.  
 
 ---
